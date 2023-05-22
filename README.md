@@ -2,4 +2,4 @@
 
 ## Data Structure
 
-- Chunks: Account data chunked by chunkenizer
+Guided 3 ML engineers to B.E.R.T based LLM (Natural language) model to extract key issues from million+ text complaints at clients’ Customer Support; 92% accuracy, saving $1.2Mn per client (as part of UC Berkeley internship)
